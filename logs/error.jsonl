@@ -1,0 +1,474 @@
+{"ts": "2026-07-02T14:45:20.914223+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 2}
+{"ts": "2026-07-02T14:48:52.422906+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T14:53:58.414852+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T14:55:32.356878+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T14:59:03.634830+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T15:04:09.380320+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 2}
+{"ts": "2026-07-02T15:09:16.519568+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 2}
+{"ts": "2026-07-02T15:14:24.265833+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 2}
+{"ts": "2026-07-02T15:19:33.325683+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T15:24:39.415839+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T15:29:44.921746+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T15:34:56.791134+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T15:40:02.001605+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T15:45:09.756636+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T15:50:15.879498+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T15:55:21.919426+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:00:29.207277+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:05:34.329580+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:10:39.385988+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:15:44.185597+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:20:49.150317+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:25:58.725578+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:31:03.507306+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:36:08.303725+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:41:12.764617+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:46:17.134633+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:51:21.734370+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T16:56:26.284658+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:01:30.996227+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:06:35.533560+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:11:40.039338+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:16:44.866969+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:21:49.529324+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:26:54.147810+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:31:59.268968+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:37:06.378069+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:42:11.072840+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:47:15.684333+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:52:20.075826+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T17:57:24.519967+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:02:28.992909+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:07:33.385067+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:12:37.737328+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:17:42.522194+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:22:47.126252+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:27:51.654189+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:32:56.018630+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:38:00.382013+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:43:05.004893+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:48:09.625805+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:53:14.260393+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T18:58:18.637071+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:03:23.139530+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:08:27.945765+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:13:32.573905+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:18:36.902112+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:23:41.299249+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:28:45.898636+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:33:50.400715+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:38:54.989859+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:43:59.571194+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:49:04.356323+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:54:09.032715+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T19:59:13.582921+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:04:18.094103+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:09:22.482497+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:14:26.983303+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:19:31.470959+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:24:35.837151+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:29:40.268220+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:34:44.734554+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:39:49.503858+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:44:53.981164+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:49:58.558719+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T20:55:03.273540+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:00:07.861055+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:05:12.366579+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:10:16.826343+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:15:21.700777+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:20:26.207350+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:25:30.758021+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:30:35.132961+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:35:39.645320+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:40:44.198618+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:45:48.727597+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:50:53.150773+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T21:55:57.659036+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:01:02.251383+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:06:06.687659+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:11:11.182958+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:16:15.552135+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:21:20.182948+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:26:24.772173+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:31:29.186957+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:36:33.627165+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:41:37.979585+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:46:51.858145+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1488, "error": "indodax GET https://indodax.com/tradingview/history_v2?to=1783032401&tf=60&symbol=solidr&from=1782672400"}
+{"ts": "2026-07-02T22:46:54.210731+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:51:58.684769+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T22:57:03.261492+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:02:07.693659+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:07:12.258644+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:12:17.972433+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:17:23.575804+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:22:29.547921+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:27:34.177165+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:32:38.644217+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:37:44.064910+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:42:49.527667+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:47:55.352131+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:52:59.938023+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-02T23:58:04.441603+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:03:09.963786+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:08:15.996683+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:13:21.837999+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:18:27.756159+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:23:33.259459+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:28:39.329743+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:33:44.872080+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:38:49.938095+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:43:55.380349+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:49:00.683029+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:54:06.659308+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T00:59:13.056945+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:04:18.217188+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:09:23.603856+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:14:29.064427+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:19:34.510221+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:24:40.262804+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:29:46.058228+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:34:51.820688+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:39:57.593109+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:45:03.523205+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:50:09.781896+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T01:55:16.789282+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:00:23.456582+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:05:28.579770+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:10:34.750472+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:15:41.539158+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:20:48.954548+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:25:54.309436+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:31:00.531424+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:36:06.505150+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:41:13.786066+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:46:19.964937+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:51:26.342176+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T02:56:31.904889+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:01:37.322678+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:06:43.080370+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:11:48.536215+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:16:54.778714+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:21:59.932088+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:27:06.096899+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:32:11.971531+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:37:17.589278+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:42:24.135716+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:47:29.314218+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:52:34.781460+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T03:57:39.293196+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:02:43.612807+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:07:49.411011+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:12:53.995028+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:17:58.516140+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:23:03.603452+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:28:07.736560+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1387, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:09.205974+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2146, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:11.431939+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:11.432482+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:11.680746+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1245, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:13.007264+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2316, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:15.399606+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:15.400090+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:15.654186+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1181, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:16.922439+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2167, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:19.169742+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:19.170136+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:19.411670+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1475, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:20.961734+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2433, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:23.459512+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:23.459955+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:23.709058+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1376, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:25.176529+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2221, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:27.471177+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:27.473287+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs 429 Too Many Requests {'error':'too_many_requests_from_your_ip','error_description':'Too Many Requests From Your IP (max 180 requests per minute)','error_code':'too_many_requests_from_your_ip'}"}
+{"ts": "2026-07-03T04:28:27.480187+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:33:33.396643+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:38:39.250435+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:43:43.810626+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:48:48.587230+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:53:53.214550+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T04:58:58.432838+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:04:02.827852+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:09:07.244311+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:14:12.781580+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:19:18.836351+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:24:25.093291+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:29:30.551460+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:34:35.622333+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:39:41.326736+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:44:46.320392+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:49:51.661965+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T05:54:57.009978+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:00:02.366890+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:05:07.341313+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:10:12.665112+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:15:18.636842+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:20:24.359664+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:25:29.385809+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:30:38.382056+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:35:43.980011+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:40:49.323359+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:45:55.707394+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:51:01.397446+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T06:56:04.868110+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1217, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:06.088138+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2028, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:08.119115+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:08.119606+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:08.369740+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1189, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:09.561406+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2227, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:11.790870+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:11.791274+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:12.040878+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1113, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:13.157721+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2101, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:15.260501+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:15.260764+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:15.512131+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1483, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:16.998289+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2426, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:19.427197+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:19.427633+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:19.678358+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1402, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:21.082866+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2027, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:23.111964+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:23.112271+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T06:56:23.113978+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:01:26.703415+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1272, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:27.978755+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2451, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:30.431666+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:30.431968+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:30.682151+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1324, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:32.008528+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2432, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:34.442795+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:34.443104+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:34.692975+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1329, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:36.024287+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2471, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:38.497341+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:38.497616+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:38.747458+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1347, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:40.096717+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2030, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:42.128673+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:42.128954+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:42.379091+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1482, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:43.863950+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2037, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:45.903025+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:45.903430+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:01:45.905698+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:06:49.249467+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1218, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:06:50.469578+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2112, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:06:52.583796+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:06:52.584176+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:06:52.833430+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1026, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:06:53.861664+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2485, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:06:56.348415+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:06:56.348782+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:06:56.599040+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1467, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:06:58.068890+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2100, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:00.170918+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:00.171222+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:00.422491+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1445, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:01.870137+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2145, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:04.017571+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:04.017918+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:04.266913+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1267, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:05.536773+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2418, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:07.957046+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:07.957399+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:07:07.958981+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:12:11.265686+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1282, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:12.550113+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2330, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:14.882965+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:14.883354+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:15.132216+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1274, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:16.408931+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2471, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:18.882755+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:18.883066+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:19.131885+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1024, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:20.157670+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2173, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:22.332792+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:22.333168+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:22.582065+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1301, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:23.885532+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2229, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:26.116035+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:26.116306+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:26.366901+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1341, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:27.712421+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2298, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:30.013144+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:30.013814+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:12:30.016165+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:17:33.141402+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1450, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:34.594147+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2005, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:36.600931+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:36.601281+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:36.851325+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1313, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:38.166783+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2163, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:40.331644+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:40.331914+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:40.582347+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1049, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:41.634642+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2173, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:43.810363+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:43.810810+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:44.060820+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1367, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:45.430955+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2354, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:47.787516+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:47.787933+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:48.037132+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1120, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:49.159675+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2331, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:51.492958+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:51.493350+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:17:51.495473+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:22:55.021297+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1278, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:22:56.301586+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2164, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:22:58.479878+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:22:58.480264+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:22:58.730865+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1385, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:00.119076+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2179, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:02.299765+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:02.300263+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:02.550629+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1337, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:03.889959+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2298, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:06.191191+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:06.191555+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:06.443002+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1079, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:07.524881+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2240, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:09.767894+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:09.768289+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:10.018537+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1009, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:11.030264+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2335, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:13.367942+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:13.368328+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:23:13.371479+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:28:16.757097+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1288, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:18.048398+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2335, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:20.385639+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:20.385937+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:20.635783+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1483, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:22.121020+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2004, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:24.127158+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:24.127547+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:24.377555+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1498, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:25.879180+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2252, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:28.133287+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:28.133613+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:28.384097+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1276, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:29.662665+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2179, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:31.844155+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:31.844497+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:32.095619+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1377, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:33.476485+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2408, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:35.886636+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:35.887000+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:28:35.888970+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:33:39.284760+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1031, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:40.317863+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2239, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:42.558858+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:42.559225+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:42.809746+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1224, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:44.036193+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2473, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:46.512334+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:46.512858+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:46.761734+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1451, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:48.214821+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2482, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:50.699770+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:50.700281+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:50.950080+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1214, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:52.166906+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2038, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:54.207849+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:54.208238+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:54.457777+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1170, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:55.631855+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2315, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:57.949026+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:57.949397+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:33:57.950987+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:39:01.142453+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1269, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:02.414153+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2133, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:04.549397+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:04.549765+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:04.799691+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1363, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:06.164235+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2199, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:08.366705+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:08.367251+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:08.615901+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1404, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:10.023241+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2010, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:12.036085+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:12.036500+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:12.285319+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1198, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:13.486407+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2077, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:15.565528+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:15.565901+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:15.814959+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1384, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:17.202834+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2010, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:19.214929+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:19.215203+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:39:19.216651+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:44:22.640933+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1107, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:23.751033+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2413, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:26.166268+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:26.166575+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:26.416650+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1488, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:27.907165+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2003, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:29.912188+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:29.912530+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:30.162632+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1162, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:31.326498+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2384, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:33.712966+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:33.713286+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:33.967163+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1016, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:34.985155+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2109, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:37.097356+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:37.097836+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:37.346329+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1104, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:38.454343+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2318, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:40.775318+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:40.775741+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "DOGE/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:44:40.778384+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:49:44.278742+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1107, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:45.388235+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2159, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:47.549719+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:47.550031+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "BTC/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:47.798868+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1187, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:48.988130+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2212, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:51.202117+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:51.202398+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "ETH/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:51.453063+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1358, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:52.814225+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2186, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:55.003121+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:55.003504+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "SOL/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:55.252520+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1015, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:56.269955+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2059, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:58.331821+00:00", "level": "ERROR", "event": "retry_exhausted", "func": "fetch_ohlcv", "attempts": 3, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:58.332181+00:00", "level": "ERROR", "event": "exit_check_failed", "pair": "XRP/IDR", "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:49:58.580967+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1418, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:50:00.002120+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 2, "max": 3, "delay_ms": 2155, "error": "indodax GET https://indodax.com/api/pairs"}
+{"ts": "2026-07-03T07:50:03.013123+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T07:55:08.219676+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:00:14.299415+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:05:20.104501+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:10:24.886376+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:15:31.473024+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:20:38.663727+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:25:45.810029+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:30:53.239407+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:36:06.425599+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:41:13.014087+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:46:20.403994+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:51:25.639381+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T08:56:32.316500+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:01:37.464773+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:06:44.644292+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:11:52.149923+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:17:34.434667+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:18:16.757397+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:22:08.409039+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:29:23.606060+00:00", "level": "WARN", "event": "retry", "func": "fetch_ohlcv", "attempt": 1, "max": 3, "delay_ms": 1498, "error": "indodax GET https://indodax.com/tradingview/history_v2?to=1783070953&tf=15&symbol=btcidr&from=1782980952"}
+{"ts": "2026-07-03T09:30:10.055333+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:30:59.362415+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:31:37.364681+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:35:34.023041+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T09:50:06.364131+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T10:53:23.610098+00:00", "level": "WARN", "event": "open_positions_on_shutdown", "count": 3}
+{"ts": "2026-07-03T11:26:03.180979+00:00", "level": "ERROR", "event": "entry_scan_failed", "pair": "BTC/IDR", "error": "'total'"}
+{"ts": "2026-07-03T11:26:04.416449+00:00", "level": "ERROR", "event": "entry_scan_failed", "pair": "SOL/IDR", "error": "'total'"}
+{"ts": "2026-07-03T11:27:55.698910+00:00", "level": "ERROR", "event": "entry_scan_failed", "pair": "BTC/IDR", "error": "'total'"}
+{"ts": "2026-07-03T11:27:56.532104+00:00", "level": "ERROR", "event": "entry_scan_failed", "pair": "SOL/IDR", "error": "'total'"}
+{"ts": "2026-07-03T11:28:39.142482+00:00", "level": "ERROR", "event": "entry_scan_failed", "pair": "BTC/IDR", "error": "'total'"}
+{"ts": "2026-07-03T11:28:40.042174+00:00", "level": "ERROR", "event": "entry_scan_failed", "pair": "SOL/IDR", "error": "'total'"}
